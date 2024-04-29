@@ -21,6 +21,9 @@ The plumbing industry is booming rapidly, and the traditional methods of finding
 * **Flexible schedule:** Select tasks that align with your availability. 
 * **Quick Payments:** Use the app to receive payments instantly. 
 * **Marketing Platform:** The Uber for Plumber app serves as a tool for reaching new consumers.
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“uberforplumber.png" src="https://github.com/sangvishtechnologies/uber-for-plumbers/blob/main/images/ubre-for-plumber-app.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
+
 ## Essential Features for On-demand Plumbing Service App
 Explore the key features that set our plumbing service app apart and provide a flawless experience for both consumers and plumbers.
 * **User-friendly Interface:** The on-demand plumbing service app is simple to use, with an intuitive design that allows both consumers and plumbers to navigate.
@@ -45,6 +48,8 @@ There are three main components to consider:
 * **Dashboard:** Admins can view user activity, service requests, and revenues.
 * **Managing Users and Plumbers:** Admin can manage users, plumbers, and service requests.
 * **Financial Oversight:** Regulate payment and billing processes, including invoices and financial transactions.
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“uberforplumber.png" src="https://github.com/sangvishtechnologies/uber-for-plumbers/blob/main/images/ubre-for-plumbers.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
 
 ## Are you ready to transform the plumbing business by creating your on-demand app?
 This complete guide provides you with the knowledge you need to make your idea a reality. But, why start from scratch? Get a jump start with our pre-written app script, which is tailored specifically for creating an Uber for plumbers app.
